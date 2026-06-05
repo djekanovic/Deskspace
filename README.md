@@ -6,7 +6,7 @@
 
 **Deskspace** is a high-performance spatial window manager that reimagines the Windows desktop as an infinite 2D canvas. It eliminates the constraints of physical monitor boundaries by allowing you to organize your applications in a massive virtual workspace, providing seamless navigation through fluid panning, zooming, and a powerful real-time overview of your entire workflow.
 
-## ðŸš€ Features
+## 🚀 Features
 
 - **Infinite Canvas:** Pan and zoom across a massive virtual workspace.
 - **Overview Mode:** See all your windows at once with live DWM thumbnails.
@@ -14,7 +14,7 @@
 - **Window Snapping:** Magnetic edges make it easy to align windows in virtual space.
 - **Glassmorphic UI:** A modern, cyber-inspired aesthetic.
 
-## ðŸ–±ï¸ Controls & Navigation
+## 🖱️ Controls & Navigation
 
 ### Global Mouse Controls
 - **Pan Canvas:** `Middle Mouse Drag` anywhere on the screen.
@@ -35,7 +35,7 @@
 - **Focus:** `Double Click` a window card to jump to it and exit Overview.
 - **Pan/Zoom:** Use `Left Mouse Drag` on empty space to move the overview camera.
 
-## ðŸ› ï¸ Getting Started
+## 🛠️ Getting Started
 
 1. Run `Deskspace.exe`.
 2. Look for the neon icon in your **System Tray**.
