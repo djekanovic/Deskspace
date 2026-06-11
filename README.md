@@ -18,7 +18,7 @@
 ## 🖱️ Controls & Navigation
 
 ### Global Mouse Controls
-- **Pan Canvas:** `Middle Mouse Drag` anywhere on the screen.
+- **Pan Canvas:** `Middle Mouse Drag` anywhere on the screen. Additional `ALT + Left Click` shortcut option.
 - **Zoom In/Out:** `Ctrl + Mouse Wheel`.
 
 ### Hotkeys
