@@ -1,3 +1,4 @@
+
 # Deskspace
 
 ![Deskspace Banner](assets/DeskspaceFull.png)
@@ -41,3 +42,8 @@
 2. Look for the neon icon in your **System Tray**.
 3. Right-click the Tray Icon to access settings, pause the canvas, or restore all windows to their original positions.
 4. Use `Win + M` to open your Canvas Map and start exploring!
+
+##  🌟Inspired by
+
+1. [driftwm](https://github.com/malbiruk/driftwm)
+2. [WinfiniteCanvas](https://github.com/Nick-de-Bruin/WinfiniteCanvas)
