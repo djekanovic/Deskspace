@@ -7,6 +7,11 @@
 
 **Deskspace** is a high-performance spatial window manager that reimagines the Windows desktop as an infinite 2D canvas. It eliminates the constraints of physical monitor boundaries by allowing you to organize your applications in a massive virtual workspace, providing seamless navigation through fluid panning, zooming, and a powerful real-time overview of your entire workflow.
 
+## Installation
+
+- Go to **[Releases](https://github.com/djekanovic/Deskspace/releases)** and download the latest release Deskspace1.1.zip, extract zip and run .exe file. That's it!
+
+
 ## 🚀 Features
 
 - **Infinite Canvas:** Pan and zoom across a massive virtual workspace.
