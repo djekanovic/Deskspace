@@ -9,7 +9,7 @@
 
 ## Installation
 
-- Go to **[Releases](https://github.com/djekanovic/Deskspace/releases)** and download the latest release Deskspace1.1.zip, extract zip and run .exe file. That's it!
+- Go to **[Releases](https://github.com/djekanovic/Deskspace/releases)** and download the latest release Deskspace1.2.zip, extract zip and run .exe file. That's it!
 
 
 ## 🚀 Features
